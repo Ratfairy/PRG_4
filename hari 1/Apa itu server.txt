@@ -1,0 +1,6 @@
+Apa itu server?
+satu kesatuan komputer yang melayani banyak orang
+perbedaan server dan PC?
+PC = komputer yang melayani satu orang
+server = komputer yang melayani banyak orang
+cloud ?

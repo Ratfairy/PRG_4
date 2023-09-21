@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Belajar javascript</tittle>
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    </head>
+    <body>
+        <p>Paragaf pertama</p>
+        <p>Paragaf Kedua</p>
+        <p>Paragaf Ketiga</p>
+
+        <p id="namaid">Paragaf Keempat</p>
+        <p class="namaclass"> Paragaf Kelima</P>
+
+            <p id ="namaidlain">Paragaf Kenam</p>
+            <p class="namaclasslain">Paragaf Ketujuh</p>
+
+        <script>
+            $("p").css("background-color", "yellow");
+            $("#namaid").css("background-color", "green");
+            $(".namaclass").css("background-color", "red");
+            $("#namaidlain,.namaclasslain").css("background-color", "blue");
+        </script>
+
+        <p id="output">element3</p>
+        <p id="output">element2</p>
+        <p id="ouput">element</p>
+        
+
+        <script>
+            document.getElementById("output").innerHTML ="Hello world";
+        </script>
+    </body>
+</html>

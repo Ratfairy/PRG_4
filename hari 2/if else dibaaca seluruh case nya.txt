@@ -1,0 +1,26 @@
+if else dibaaca seluruh case nya
+kurang efisien
+
+switch case hanya membaca beberapa case
+lebih efisien
+
+apakah arrow function?
+Tidak, arrow function tidak hanya ada di JavaScript. Arrow function juga tersedia di beberapa bahasa pemrograman lainnya, seperti:
+TypeScript
+C#
+Python
+Java
+Rust
+Go
+
+arrow function pemrogramana modular??
+
+function deklaration
+
+DOM?
+
+jquary?
+
+AJAX?
+
+Apakah Doom bisa melihat silsilah keluarga
